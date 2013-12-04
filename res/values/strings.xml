@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">My First App</string>
+    <string name="app_name">Parallel DNS Tester</string>
     <string name="edit_message">Send</string>
-    <string name="send1">Send</string>
+    <string name="test_LTE">Run LTE Test</string>
+    <string name="test_WiFi">Run WiFi Test</string>
+    <string name="test_3G">Run 3G Test</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_main">MainActivity</string>
 </resources>
